@@ -1,0 +1,55 @@
+* {
+  padding: 0;
+  margin: 0;
+
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+}
+.recpie_image {
+  width: 100vw;
+  height: 100vh;
+}
+
+.title {
+  font-size: 48px;
+  padding: 56px;
+  margin: 30px;
+  background-color: red;
+  border-radius: 30px;
+}
+.desc {
+  font-size: 32px;
+}
+
+.title_desc_container {
+  margin: 64px;
+}
+.details_container {
+  margin: 64px;
+}
+.Ingredients_container {
+  margin: 64px;
+}
+.fav_btn {
+  margin: 64px;
+}
+.container {
+  background-color: white;
+}
+
+/* element selector */
+p {
+  font-size: 32px;
+}
+/* class selector */
+.test {
+  color: red;
+}
+
+/* id selector */
+#test2 {
+  color: blue;
+}
+#test1 {
+  color: green;
+}
